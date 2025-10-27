@@ -1,6 +1,3 @@
-# 사용법
-
-ex)
 ---
 title: Philadelphia
 Year: 1993
